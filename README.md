@@ -5,56 +5,52 @@ ffxiv-character-config-copy
 dropbox directory structure to follow for script to work.
 
 
-Dropbox>
+    Dropbox>
 
-  Backup Folder>
+    Backup Folder>
   
-    FFXIV>
-    
-      COMMON>
+      FFXIV>
       
-        CHAR>
+        COMMON>
         
-        FFXIV_CHARA_01.DAT
+          CHAR>
+          
+          FFXIV_CHARA_01.DAT
         
-        MACROSYS.DAT
+          MACROSYS.DAT
         
-      CHAR1FOLDER>
+        CHAR1FOLDER>
       
-        GEARSET.DAT
+          GEARSET.DAT
         
-        ITEMFDR.DAT
+          ITEMFDR.DAT
         
-        ITEMODR.DAT
+          ITEMODR.DAT
         
-      CHAR2FOLDER>
+        CHAR2FOLDER>
       
-        GEARSET.DAT
+          GEARSET.DAT
         
-        ITEMFDR.DAT
+          ITEMFDR.DAT
         
-        ITEMODR.DAT
+          ITEMODR.DAT
         
-      CHARETC....>
+        CHARETC....>
       
-        GEARSET.DAT
+          GEARSET.DAT
         
-        ITEMFDR.DAT
+          ITEMFDR.DAT
         
-        ITEMODR.DAT
+          ITEMODR.DAT
         
       COMPUTER1NAME>
       
-        ADDON.DAT
+          ADDON.DAT
         
       COMPUTER2NAME>
       
-        ADDON.DAT
+          ADDON.DAT
         
       COMPUTERETC....>
       
-        ADDON.DAT
-
-      
-                      
-                      
+          ADDON.DAT
