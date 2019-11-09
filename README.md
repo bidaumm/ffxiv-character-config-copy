@@ -3,27 +3,27 @@ ffxiv-character-config-copy
 
 Script that allows you to synchronize character data via dropbox
 
-It will sync 
+## It will sync 
 
-For everything:
+### For everything:
 
 character appearance data and shared macros
 
-For all characters:
+### For all characters:
 
 character configuration / keybinds / log filter / macros
 
-per character basis:
+### per character basis:
 
 Gearsets/Item Order/Item Search info
 
-per computer basis:
+### per computer basis:
 
 ui position 
 
 
 
-dropbox directory structure to follow for script to work.
+## dropbox directory structure to follow for script to work.
 
     Dropbox>
 
